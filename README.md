@@ -1,2 +1,2 @@
-# Bot-Bate-Ponto-
+# Bot-Bate-Ponto
 Bot de Bate Ponto
